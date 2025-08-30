@@ -19,5 +19,10 @@ This project analyzes job postings for Data Analyst roles to uncover trends in s
 - Matplotlib for visualizations  
 - Regular expressions (`re`) for text processing
 
+  ##requirements
+  -pip install pandas
+  -pip install matplotlib
+  -pip install numpy
+
 
 
